@@ -4,9 +4,9 @@ The reference implementation for this paper:
 
 ```
 @inproceedings{alphadimt,
- title={Neural Sequence Model Training via $\alpha$-divergence Minimization,
+ title={Neural Sequence Model Training via $\alpha$-divergence Minimization},
  author={Koyamada, Sotetsu and Kikuchi, Yuta and Kanemura, Atsunori and Maeda, Shin-ichi and Ishii, Shin},
- booktitle={Proceedings of the 2017 ICML workshop on Learning to Generate Natural Language (LGNL)},
+ booktitle={ICML Workshop on Learning to Generate Natural Language (LGNL)},
  year={2017}
 }
 ```
