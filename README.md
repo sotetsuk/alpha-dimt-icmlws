@@ -19,7 +19,7 @@ Note that
 
 - numpy
 - scipy
-- [PyTorch](http://pytorch.org/)
+- [PyTorch](http://pytorch.org/) (=0.1.12)
 
 ## Usage
 
